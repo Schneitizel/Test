@@ -1,17 +1,19 @@
+{} 
+
 /* Backgrounds */
 
 .app,
 .callout-backdrop {
-    background-image: url("https://puu.sh/sy6kU.png");
+    background-image: url("https://i.imgur.com/q8NCGHH.jpg");
     background-size: cover !important;
     background-position: center !important;
 }
 .bda-backdrop {
-    background: url("https://puu.sh/u6PBP.jpg")!important;
+    background: url("https://i.imgur.com/NUhSyNd.jpg")!important;
     background-size: cover!important;
 }
 #pubs-container:before {
-	background: url("https://puu.sh/u6PBP.jpg")!important;
+	background: url("https://i.imgur.com/NUhSyNd.jpg")!important;
     background-size: cover!important;
 }
 
